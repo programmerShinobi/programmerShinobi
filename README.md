@@ -24,6 +24,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/programmerShinobi?style=flat-square&color=161b22&labelColor=0d1117)](https://github.com/programmerShinobi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faqih_Pratama_Muhti-161b22?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/faqihpratamamuhti)
 
+<br/>
+
+[![Download CV](https://img.shields.io/badge/%F0%9F%93%9C_UNSEAL_THE_SCROLL-Download_CV-1a1a2e?style=for-the-badge&labelColor=0d1117)](https://github.com/programmerShinobi/programmerShinobi/raw/main/assets/Faqih-Pratama-Muhti-Resume.pdf)
+
 </div>
 
 ---
@@ -138,10 +142,34 @@ shinobi:
 
 ### 📊 &nbsp; SHADOW METRICS &nbsp; · &nbsp; 統 計
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=programmerShinobi&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&icon_color=8B949E&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerShinobi&layout=compact&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=programmerShinobi&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&icon_color=8B949E&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerShinobi&layout=compact&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&hide_border=true&langs_count=8" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmerShinobi&theme=dark&background=0d1117&border=161b22&stroke=8B949E&ring=8B949E&fire=ffffff&currStreakLabel=8B949E&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=programmerShinobi&theme=dark&background=0d1117&border=161b22&stroke=8B949E&ring=8B949E&fire=ffffff&currStreakLabel=8B949E&hide_border=true" width="70%" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 &nbsp; WAR TROPHIES &nbsp; · &nbsp; 戦 利 品
+
+<img src="https://github-profile-trophy.vercel.app/?username=programmerShinobi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 &nbsp; THE SERPENT'S PATH &nbsp; · &nbsp; 蛇 の 道
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmerShinobi/programmerShinobi/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programmerShinobi/programmerShinobi/output/snake-light.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/programmerShinobi/programmerShinobi/output/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
