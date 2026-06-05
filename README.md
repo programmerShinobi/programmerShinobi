@@ -142,8 +142,9 @@ shinobi:
 
 ### 📊 &nbsp; SHADOW METRICS &nbsp; · &nbsp; 統 計
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=programmerShinobi&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&icon_color=8B949E&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerShinobi&layout=compact&theme=dark&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&hide_border=true&langs_count=8" alt="top languages" />
+<img src="./assets/metrics.svg" width="88%" alt="stats overview" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=programmerShinobi&theme=dark&background=0d1117&border=161b22&stroke=8B949E&ring=8B949E&fire=ffffff&currStreakLabel=8B949E&hide_border=true" width="70%" alt="streak" />
 
@@ -155,7 +156,7 @@ shinobi:
 
 ### 🏆 &nbsp; WAR TROPHIES &nbsp; · &nbsp; 戦 利 品
 
-<img src="https://github-profile-trophy.vercel.app/?username=programmerShinobi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies" />
+<img src="./assets/metrics-trophy.svg" width="88%" alt="achievements" />
 
 </div>
 
