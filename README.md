@@ -152,15 +152,7 @@ shinobi:
 
 ---
 
-<div align="center">
-
-### 🏆 &nbsp; WAR TROPHIES &nbsp; · &nbsp; 戦 利 品
-
-<img src="./assets/metrics-trophy.svg" width="88%" alt="achievements" />
-
-</div>
-
----
+<!-- WAR TROPHIES temporarily hidden — pending decision on PAT vs alternative -->
 
 <div align="center">
 
