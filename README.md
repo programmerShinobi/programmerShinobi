@@ -152,7 +152,24 @@ shinobi:
 
 ---
 
-<!-- WAR TROPHIES temporarily hidden — pending decision on PAT vs alternative -->
+<div align="center">
+
+### 🗝️ &nbsp; THE VAULT &nbsp; · &nbsp; 宝 物
+
+<sub>Relics forged in the shadows — a glimpse of the arsenal.</sub>
+
+| ⛩️ &nbsp; Repository | Stack | ⭐ |
+|:--|:--:|:--:|
+| **[auth-prisma-nestjs](https://github.com/programmerShinobi/auth-prisma-nestjs)** <br/><sub>NestJS authentication built with Prisma ORM &amp; PostgreSQL</sub> | `TypeScript` | 3 |
+| **[next-auth-credentials](https://github.com/programmerShinobi/next-auth-credentials)** <br/><sub>Next.js sign-in flow using credential-based NextAuth</sub> | `TypeScript` | 3 |
+| **[laravel-qa](https://github.com/programmerShinobi/laravel-qa)** <br/><sub>Q&amp;A platform — a Stack Overflow clone (Laravel + Vue.js)</sub> | `PHP` | 3 |
+| **[reactjs-chakra-ui](https://github.com/programmerShinobi/reactjs-chakra-ui)** <br/><sub>React interfaces crafted with Chakra UI</sub> | `JavaScript` | 3 |
+| **[web_erp-CI](https://github.com/programmerShinobi/web_erp-CI)** <br/><sub>ERP system — PT Hijau Elektronika Indonesia (CodeIgniter)</sub> | `PHP` | 3 |
+| **[web_library-CI](https://github.com/programmerShinobi/web_library-CI)** <br/><sub>Library & archives system — Karawang Regency (CodeIgniter)</sub> | `PHP` | 2 |
+
+</div>
+
+---
 
 <div align="center">
 
