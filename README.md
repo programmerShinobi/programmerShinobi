@@ -75,7 +75,7 @@ shinobi:
 
 <div align="center">
 
-### ⚔️ &nbsp; ARSENAL &nbsp; · &nbsp; 武 器 庫
+### ⚔️ &nbsp; NINJUTSU &nbsp; · &nbsp; 忍 術
 
 </div>
 
