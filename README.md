@@ -156,7 +156,7 @@ shinobi:
 
 <div align="center">
 
-### 🐍 &nbsp; THE SERPENT'S PATH &nbsp; · &nbsp; 蛇 の 道
+### 🐉 &nbsp; THE DRAGON'S PATH &nbsp; · &nbsp; 龍 の 道
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmerShinobi/programmerShinobi/output/snake-dark.svg" />
