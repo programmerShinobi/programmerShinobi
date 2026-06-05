@@ -154,18 +154,19 @@ shinobi:
 
 <div align="center">
 
-### 🗝️ &nbsp; THE VAULT &nbsp; · &nbsp; 宝 物
+### 🏯 &nbsp; THE CREED &nbsp; · &nbsp; 心 得
 
-<sub>Relics forged in the shadows — a glimpse of the arsenal.</sub>
+```
+「 First, master the silence — the code will follow. 」
+```
 
-| ⛩️ &nbsp; Repository | Stack | ⭐ |
-|:--|:--:|:--:|
-| **[auth-prisma-nestjs](https://github.com/programmerShinobi/auth-prisma-nestjs)** <br/><sub>NestJS authentication built with Prisma ORM &amp; PostgreSQL</sub> | `TypeScript` | 3 |
-| **[next-auth-credentials](https://github.com/programmerShinobi/next-auth-credentials)** <br/><sub>Next.js sign-in flow using credential-based NextAuth</sub> | `TypeScript` | 3 |
-| **[laravel-qa](https://github.com/programmerShinobi/laravel-qa)** <br/><sub>Q&amp;A platform — a Stack Overflow clone (Laravel + Vue.js)</sub> | `PHP` | 3 |
-| **[reactjs-chakra-ui](https://github.com/programmerShinobi/reactjs-chakra-ui)** <br/><sub>React interfaces crafted with Chakra UI</sub> | `JavaScript` | 3 |
-| **[web_erp-CI](https://github.com/programmerShinobi/web_erp-CI)** <br/><sub>ERP system — PT Hijau Elektronika Indonesia (CodeIgniter)</sub> | `PHP` | 3 |
-| **[web_library-CI](https://github.com/programmerShinobi/web_library-CI)** <br/><sub>Library & archives system — Karawang Regency (CodeIgniter)</sub> | `PHP` | 2 |
+> *"Simplicity is the ultimate sophistication."* &nbsp;—&nbsp; **Leonardo da Vinci**
+>
+> *"Make it work, make it right, make it fast."* &nbsp;—&nbsp; **Kent Beck**
+>
+> *"The quieter you become, the more you are able to hear."* &nbsp;—&nbsp; **Ram Dass**
+
+<sub>七転び八起き &nbsp;·&nbsp; <i>Fall seven times, rise eight.</i></sub>
 
 </div>
 
