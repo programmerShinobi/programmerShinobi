@@ -4,8 +4,12 @@
 
 **Software Engineer — Backend & System Architecture**
 
-Depok, West Java, Indonesia
+Building & modernizing enterprise systems with Node.js · NestJS · Spring Boot · PostgreSQL
 
+Depok, West Java, Indonesia · Remote / Hybrid
+
+[![Open to Work](https://img.shields.io/badge/●_Open_to-Backend%2FFull_Stack_roles-1f8b4c?style=flat-square)](mailto:faqihpratamamuhti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faqihpratamamuhti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faqihpratamamuhti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faqih_Pratama_Muhti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faqihpratamamuhti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)](https://faqih-pratama-muhti.my.canva.site/my-portfolio)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC4034?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/programmerShinobi/programmerShinobi/raw/main/assets/Faqih-Pratama-Muhti-Resume.pdf)
@@ -19,9 +23,13 @@ Depok, West Java, Indonesia
 
 Software Engineer specializing in **backend development and system architecture**. I build
 transparent, secure, well-tested systems — and I care about decisions being explained and
-documented, not just shipped. Currently building backend platforms at **GMF AeroAsia**.
+documented, not just shipped. For ~3 years I've built and modernized **enterprise aviation
+platforms** at **GMF AeroAsia** — shipping production features, optimizing APIs & databases,
+and hardening applications against real penetration-test findings.
 
-> **Open to work & collaboration** — backend engineering, system architecture, and open source.
+> 💼 **Open to Backend / Full Stack Engineer roles (Remote / Hybrid)** — and to open-source
+> collaboration. I bring strong ownership, structured problem-solving, and the ability to turn
+> business needs into reliable software. [Let's talk →](mailto:faqihpratamamuhti@gmail.com)
 
 ## Open source
 
@@ -86,6 +94,14 @@ Selected work at GMF AeroAsia:
 
 **B.Sc. Computer Science** — Buana Perjuangan University (2018–2022)
 GPA 3.85 / 4.0 · Best Graduate (Faculty)
+
+## Get in touch
+
+Hiring, collaborating, or just curious? I'm open to backend & full stack opportunities and usually reply within a day.
+
+[![Email](https://img.shields.io/badge/Email_me-faqihpratamamuhti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihpratamamuhti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faqihpratamamuhti)
+[![Resume](https://img.shields.io/badge/Download-Résumé_(PDF)-EC4034?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/programmerShinobi/programmerShinobi/raw/main/assets/Faqih-Pratama-Muhti-Resume.pdf)
 
 ---
 
