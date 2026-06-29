@@ -2,7 +2,7 @@
 
 # Faqih Pratama Muhti
 
-**Software Engineer — Backend & System Architecture**
+**Software Engineer · Backend Developer · Full Stack Developer**
 
 Building & modernizing enterprise systems with Node.js · NestJS · Spring Boot · PostgreSQL
 
@@ -11,7 +11,7 @@ Depok, West Java, Indonesia · Remote / Hybrid
 [![Open to Work](https://img.shields.io/badge/●_Open_to-Backend%2FFull_Stack_roles-1f8b4c?style=flat-square)](mailto:faqihpratamamuhti@gmail.com)
 [![Email](https://img.shields.io/badge/Email-faqihpratamamuhti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faqihpratamamuhti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faqih_Pratama_Muhti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faqihpratamamuhti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)](https://faqih-pratama-muhti.my.canva.site/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)](https://programmershinobi.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC4034?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/programmerShinobi/programmerShinobi/raw/main/assets/Faqih-Pratama-Muhti-Resume.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=programmerShinobi&style=flat-square&color=0a66c2&label=Profile+views)](https://github.com/programmerShinobi)
 
@@ -21,11 +21,11 @@ Depok, West Java, Indonesia · Remote / Hybrid
 
 ## About
 
-Software Engineer specializing in **backend development and system architecture**. I build
+Software Engineer with 3 years of experience in **backend & full stack development**. I build
 transparent, secure, well-tested systems — and I care about decisions being explained and
-documented, not just shipped. For ~3 years I've built and modernized **enterprise aviation
-platforms** at **GMF AeroAsia** — shipping production features, optimizing APIs & databases,
-and hardening applications against real penetration-test findings.
+documented, not just shipped. I've built and modernized **6+ enterprise aviation platforms** on
+the **GMF AeroAsia project** (via Nuxatech / OpenCloud) — shipping production features, optimizing
+APIs & databases by ~30%, and hardening applications against real penetration-test findings.
 
 > 💼 **Open to Backend / Full Stack Engineer roles (Remote / Hybrid)** — and to open-source
 > collaboration. I bring strong ownership, structured problem-solving, and the ability to turn
@@ -40,16 +40,18 @@ and hardening applications against real penetration-test findings.
 ## Experience
 
 ```
-2023 — now    GMF AeroAsia                       Backend & Full Stack Developer
-2023          Saqinah.id                         UI/UX Designer (Volunteer)
-2019 — 2020   Karawang Archives & Library Dept   IT Analyst & Programmer (Intern)
+2023 — now    Nuxatech / OpenCloud (GMF AeroAsia project)   Backend & Full Stack Developer
+2023          Saqinah.id                                    UI/UX Designer (Volunteer)
+2019 — 2020   Karawang Archives & Library Dept              IT Analyst & Programmer (Intern)
 ```
 
-Selected work at GMF AeroAsia:
+Selected work on the GMF AeroAsia project:
 
-- Rebuilt a legacy Technical Publications system into the **E-Techpub** platform — Spring Boot · PostgreSQL.
-- Built **XOPS** for aircraft-maintenance operations — NestJS · PostgreSQL.
-- Engineered the **Aircraft Health Index** and led a security overhaul after a BSSN penetration test — NestJS · Prisma · PostgreSQL.
+- Engineered the **Aircraft Health Index (AHI)** and implemented security hardening that resolved 100% of critical BSSN penetration-test findings — NestJS · Prisma · PostgreSQL · Elasticsearch.
+- Modernized a legacy Technical Publications system into the **E-Techpub** platform, cutting manual document handling by ~40% — Spring Boot · PostgreSQL.
+- Built **XOPS** for aircraft-maintenance operations, reducing manual processing time by ~35% — NestJS · PostgreSQL.
+- Developed **XPREAM** project-management & route-planning, and resolved critical bugs / optimized GraphQL in **IERApps** — Angular · GraphQL.
+- Stabilized **OLAPS** and shipped the **Electronic Logbook**, eliminating 100% of manual logbook entries.
 - Designed a **Foreign Data Wrapper** bridging PostgreSQL with SQL Server and MySQL.
 
 ## Tech stack
@@ -64,11 +66,17 @@ Selected work at GMF AeroAsia:
 
 **Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Data & Search**
 
@@ -88,12 +96,17 @@ Selected work at GMF AeroAsia:
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Education
 
 **B.Sc. Computer Science** — Buana Perjuangan University (2018–2022)
-GPA 3.85 / 4.0 · Best Graduate (Faculty)
+GPA 3.85 / 4.0 · Best Graduate Award (Faculty Level) · Certified Programmer
+
+**Languages:** Indonesian (Native) · English (Professional working proficiency)
 
 ## Get in touch
 
@@ -101,6 +114,7 @@ Hiring, collaborating, or just curious? I'm open to backend & full stack opportu
 
 [![Email](https://img.shields.io/badge/Email_me-faqihpratamamuhti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihpratamamuhti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faqihpratamamuhti)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programmershinobi.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Download-Résumé_(PDF)-EC4034?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/programmerShinobi/programmerShinobi/raw/main/assets/Faqih-Pratama-Muhti-Resume.pdf)
 
 ---
